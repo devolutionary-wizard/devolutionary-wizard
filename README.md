@@ -24,5 +24,8 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://www.seekpng.com/png/full/945-9454419_nuff-said-show-me-the-code-flutter-bottom.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://www.seekpng.com/png/full/945-9454419_nuff-said-show-me-the-code-flutter-bottom.png" />
+<img align="left" alt="GitHub" width="26px" src="https://mpng.subpng.com/20180816/vxt/kisspng-computer-icons-php-portable-network-graphics-logo-amp-quot-php-5b74f7e6e553d8.7282283915343922949393.jpg" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
+<img align="left" alt="GitHub" width="26px" src="https://banner2.cleanpng.com/20190623/uxe/kisspng-logo-java-development-kit-portable-network-graphic-5d0f25d6871765.6875406615612738145533.jpg" />
