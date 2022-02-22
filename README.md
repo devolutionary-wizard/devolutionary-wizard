@@ -28,6 +28,17 @@ I am Seang Lay, people call me Ani, currently pursuing my bachelor's degree majo
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+📊 **My Skills
+<!--START_SECTION:waka-->
+```text
+Python        ████████████████████████▒░░░   90% 
+SQL           ██████████████████████▓░░░░░   85%
+Research      ███████████████████████▓░░░░   87%
+BigQuery      █████████████████████▓░░░░░░   80% 
+Development   ████████████████████▒░░░░░░░   75% 
+```
+<!--END_SECTION:waka-->
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seanglayz&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanglayz&hide=TeX&layout=compact)
 
