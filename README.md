@@ -10,5 +10,7 @@
 <div style"display:flex">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="64px" height="64px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="64px" height="64px" />
-  <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" width="64px" height="64px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="64px" height="64px" />
+  <img src=" https://www.devacron.com/wp-content/uploads/2017/05/nest_framework_logo.png" width="64px" height="64px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="64px" height="64px" />
 </div>
