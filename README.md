@@ -2,10 +2,9 @@
 
 I am Seang Lay, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from Cambodia Academy of Digital. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seanglay-ly-9a0584209/)](https://www.linkedin.com/in/seanglay-ly-9a0584209/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/scarysnoopy/)](https://www.instagram.com/scarysnoopy/)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUYoPL8QH5nuu_nLZBFZ6lQ)] (https://www.youtube.com/channel/UCUYoPL8QH5nuu_nLZBFZ6lQ)
-
+[![Linkedin Badge](https://img.shields.io/badge/-seanglay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seanglay-ly-9a0584209/)](https://www.linkedin.com/in/seanglay-ly-9a0584209/)
+[![Instagram Badge](https://img.shields.io/badge/-seanglay-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/scarysnoopy/)](https://www.instagram.com/scarysnoopy/)
+[![Youtube Badge](https://img.shields.io/badge/-layzx-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUYoPL8QH5nuu_nLZBFZ6lQ)](https://www.youtube.com/channel/UCUYoPL8QH5nuu_nLZBFZ6lQ)
 
 ## ⚡ Technologies
 
@@ -40,4 +39,4 @@ I am Seang Lay, people call me Ani, currently pursuing my bachelor's degree majo
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seanglayz&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanglayz&hide=TeX&layout=compact)
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seanglayz)
