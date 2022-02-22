@@ -8,12 +8,7 @@
 ### Languages and Tools:
 
 <div style"display:flex">
-  <div>
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="64px" height="64px" />
-    <p>ReactJS</p>
-  </div>
-   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="64px" height="64px" />
-    <p>NodeJS</p>
-  </div>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="64px" height="64px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="64px" height="64px" />
+  <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" width="64px" height="64px" />
 </div>
