@@ -1,6 +1,6 @@
 ## Seanglay seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Seang Lay, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from Cambodia Academy of Digital. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Seang Lay, people call Babe, currently pursuing my bachelor's degree majoring in computer science from Cambodia Academy of Digital. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-seanglay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seanglay-ly-9a0584209/)](https://www.linkedin.com/in/seanglay-ly-9a0584209/)
 [![Instagram Badge](https://img.shields.io/badge/-seanglay-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/scarysnoopy/)](https://www.instagram.com/scarysnoopy/)
