@@ -4,7 +4,7 @@ I am Seang Lay, people call Babe, currently pursuing my bachelor's degree majori
 
 [![Linkedin Badge](https://img.shields.io/badge/-seanglay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seanglay-ly-9a0584209/)](https://www.linkedin.com/in/seanglay-ly-9a0584209/)
 [![Instagram Badge](https://img.shields.io/badge/-seanglay-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/scarysnoopy/)](https://www.instagram.com/scarysnoopy/)
-[![Youtube Badge](https://img.shields.io/badge/-layzx-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUYoPL8QH5nuu_nLZBFZ6lQ)](https://www.youtube.com/channel/UCUYoPL8QH5nuu_nLZBFZ6lQ)
+
 
 ## ⚡ Technologies
 
@@ -34,12 +34,12 @@ I am Seang Lay, people call Babe, currently pursuing my bachelor's degree majori
 📊 **My Skills
 <!--START_SECTION:waka-->
 ```text
-Flutter       ██████████████████████████▒░   90% 
 ReactJs       ██████████████████████████▒░   90% 
-NextJs        ██████████████████████▓█▓░░░   87%
-NodeJs        ███████████████████████▓░░░░   87%
-NestJs        █████████████████████▓░░░░░░   80% 
-Laravel       ████████████████████▒░░░░░░░   75% 
+NodeJs        ██████████████████████████▒░   90% 
+NextJs        ██████████████████████░░░░░░   80%
+NestJs        ██████████████████████░░░░░░   80%
+Flutter       ██████████████████████░░░░░░   80% 
+Laravel       ███████████████░░░░░░░░░░░░░   65% 
 ```
 <!--END_SECTION:waka-->
 
