@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/seanglayz/master/name.svg" alt="Seanglay SEANGLY" />
+  <img src="https://raw.githubusercontent.com/seanglayz/seanglayz/master/name.svg" alt="Seanglay SEANGLY" />
 </h1>
 
 ## Hey! 👋
