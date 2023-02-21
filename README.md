@@ -1,13 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Seanglay SEANGLY" />
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
+I am Seang Lay, people call Babe, currently pursuing my bachelor's degree majoring in computer science from Cambodia Academy of Digital. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, C#
@@ -15,11 +13,6 @@ I'm Marton, a 18 years old web developer from Hungary.
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seanglayz&count_private=true&show_icons=true&include_all_commits=true)
