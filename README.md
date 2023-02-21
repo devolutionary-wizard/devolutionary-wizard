@@ -8,10 +8,10 @@ I am Seang Lay, people call Babe, currently pursuing my bachelor's degree majori
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 JavaScript, TypeScript, React JS, Next JS, React Native, Flutter
+- ⚙️ NodeJS, NestJS, PHP, Laravel
+- 👁️ CSS, TailwindCSS, Chakra UI, Material UI
+- 💽 MongoDB, MySQL
 
 
 
