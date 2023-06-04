@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I am Seang Lay, people call Babe, currently pursuing my bachelor's degree majoring in computer science from Cambodia Academy of Digital. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a software developer with expertise in frontend development, backend development, and mobile development, you are a versatile and skilled professional with a broad range of technical abilities. You are able to design and build user interfaces and experiences that are intuitive and visually appealing, as well as develop the underlying infrastructure and logic that powers software applications. You have a deep understanding of programming languages and development frameworks and are able to use this knowledge to create high-quality software that meets the needs of clients and end-users. You are comfortable working in a collaborative environment, and are able to communicate effectively with other developers, designers, and stakeholders to ensure that projects are completed on time and to a high standard of quality. Overall, you are a valuable asset to any software development team, able to contribute to a wide range of projects and bring a high level of technical expertise to the table.
 
 
 
@@ -11,7 +11,7 @@ I am Seang Lay, people call Babe, currently pursuing my bachelor's degree majori
 - 👨‍💻 JavaScript, TypeScript, React JS, Next JS, React Native, Flutter
 - ⚙️ NodeJS, NestJS, PHP, Laravel
 - 👁️ CSS, TailwindCSS, Chakra UI, Material UI
-- 💽 MongoDB, MySQL
+- 💽 MongoDB, MySQL, PostgreSQL
 
 
 
