@@ -34,7 +34,7 @@ I am Seang Lay, people call Babe, currently pursuing my bachelor's degree majori
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=seanglayz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=seanglayz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
 <hr>
