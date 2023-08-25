@@ -8,10 +8,11 @@ I am a software developer with expertise in frontend development, backend develo
 
 
 ## Skills
-- 👨‍💻 JavaScript, TypeScript, React JS, Next JS, Angular, Ionic, React Native, Flutter
-- ⚙️ NodeJS, NestJS, PHP, Laravel, Golang
-- 👁️ CSS, TailwindCSS, Chakra UI, Material UI, Ant Design
+- 👨‍💻 TypeScript, ReactJS, NextJS, Angular, Flutter
+- ⚙️ NodeJS, NestJS, PHP, Golang
+- 👁️ CSS, TailwindCSS, ChakraUI
 - 💽 MongoDB, MySQL, PostgreSQL
+- 😎 Amazon web service, Heroku, Vercel, Render
 
 
 
