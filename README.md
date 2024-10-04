@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/seanglayz/seanglayz/master/name.svg" alt="Devolutionary Wizard" />
+  <img src="https://raw.githubusercontent.com/devolutionary-wizard/devolutionary-wizard/master/name.svg" alt="Devolutionary Wizard" />
 </h1>
 
 ## Hey! 👋
