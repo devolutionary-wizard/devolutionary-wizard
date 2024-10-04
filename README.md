@@ -31,7 +31,7 @@ It work on my machine !!!!!!!
   </div>
   <br>
   <a href=#><img src="contributor.svg"></a>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=devolutionary-wizard&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=devolutionary-wizard&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p>
 
 <hr>
