@@ -3,18 +3,13 @@
 </h1>
 
 ## Hey! 👋
-I am a software developer with expertise in frontend development, backend development, and mobile development, you are a versatile and skilled professional with a broad range of technical abilities. You are able to design and build user interfaces and experiences that are intuitive and visually appealing, as well as develop the underlying infrastructure and logic that powers software applications. You have a deep understanding of programming languages and development frameworks and are able to use this knowledge to create high-quality software that meets the needs of clients and end-users. You are comfortable working in a collaborative environment, and are able to communicate effectively with other developers, designers, and stakeholders to ensure that projects are completed on time and to a high standard of quality. Overall, you are a valuable asset to any software development team, able to contribute to a wide range of projects and bring a high level of technical expertise to the table.
-
+It work on my machine !!!!!!!
 
 
 ## Skills
-- 👨‍💻 TypeScript, ReactJS, Flutter
+- 👨‍💻 ReactJS, NextJS, React Native, Flutter
 - ⚙️  NodeJS, PHP, Python, Golang
-- 👁️ CSS, TailwindCSS, ChakraUI
-- 💽 MySQL, PostgreSQL
-- 😎 Amazon web service, Heroku, Vercel, Render
-
-
+- 💽 MySQL, MariaDB, PostgreSQL
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -39,4 +34,3 @@ I am a software developer with expertise in frontend development, backend develo
 </p>
 
 <hr>
-
